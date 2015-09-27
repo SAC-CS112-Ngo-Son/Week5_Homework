@@ -37,3 +37,5 @@ public class Week5_Homework
 	}
 
 }
+
+// Very nice input checking!
